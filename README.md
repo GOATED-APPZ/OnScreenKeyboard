@@ -152,4 +152,4 @@ Windows Defender / antivirus flags the installer
   
   → Click "More info" → "Run anyway", or add an exception for OSK_Setup.exe.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
