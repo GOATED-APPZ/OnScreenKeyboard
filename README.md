@@ -8,7 +8,7 @@ REQUIREMENTS
 
 • Windows 10 or 11 (64-bit)
 • Internet connection (required during install)
-• ~50 MB free disk space
+• ~150 MB free disk space
 
 
 INSTALLATION
@@ -21,22 +21,24 @@ INSTALLATION
 
 3. Welcome screen — click Next.
 
-4. Choose keyboard language(s)
-   Select one or more layouts from the list (e.g. English, French, Arabic).
-   You can change this later from inside OSK.
+4. Dependencies are downloaded automatically from GOATED APPZ servers.
+   This includes all required packages bundled for offline install.
 
-5. Choose install location
+5. Choose keyboard language(s)
+   Select one or more layouts from the list (e.g. English, French, Arabic).
+   You can change this later from OSK Settings.
+
+6. Choose install location
    Default: C:\Users\<you>\AppData\Local\Programs\OSK
    Click Browse to pick a different folder, then click Next.
 
-6. Installation runs automatically:
-   • Connects to servers and downloads OSK
-   • Installs the uninstaller
-   • Creates a desktop shortcut
-   • Adds OSK to your Start Menu
+7. Installation runs automatically:
+   • Connects to servers and downloads OSK, OSK Settings, and the uninstaller
+   • Creates desktop shortcuts for OSK and OSK Settings
+   • Adds both apps to your Start Menu
    • Registers OSK in Apps & Features
 
-7. Click Finish. OSK launches immediately and will
+8. Click Finish. OSK launches immediately and will
    start automatically every time you log in.
 
    NOTE: An internet connection is required during setup.
@@ -63,11 +65,6 @@ MOVING THE KEYBOARD
   
   • OSK remembers its position between sessions.
 
-RESIZING
-
-  • Drag the resize handle (bottom-right corner) to make the keyboard
-    larger or smaller.
-
 TYPING
 
   • Click any key to send that keystroke to whatever app is in focus.
@@ -78,19 +75,21 @@ TYPING
 
 SWITCHING LANGUAGES
 
-  • Click the language flag / label at the bottom of the keyboard.
+  • Language keyboards appear as extra tabs on the OSK title bar.
   
-  • Cycles through all the layouts you selected during install.
-  
-  • To add more layouts: uninstall and reinstall, or edit your language
-    preferences in OSK's settings panel.
+  • To add or remove languages: open OSK Settings (see below).
 
-SETTINGS PANEL
+SETTINGS
 
-  • Click the gear icon (⚙) on the keyboard to open settings.
+  • Open OSK Settings from the desktop shortcut or Start Menu.
   
-  • Options include: theme, opacity, key size, startup behavior,
-    and language layout management.
+  • Or click the gear icon (⚙) on the keyboard title bar.
+
+  • General tab: theme (dark/light), opacity, auto-show on text field focus.
+  
+  • Languages tab: enable or disable any of 80+ language keyboards.
+    Use the search bar to filter, or use All / None to bulk-select.
+    Changes take effect next time OSK is opened.
 
 STARTUP BEHAVIOR
 
@@ -118,7 +117,7 @@ The uninstaller will:
   
   • Remove all installed files
   
-  • Delete the desktop shortcut and Start Menu entry
+  • Delete the desktop shortcuts and Start Menu entries
   
   • Remove the startup entry
   
